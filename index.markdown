@@ -2,7 +2,7 @@
 layout: default
 ---
 
-本书是 [The Linux Command Line](http://linuxcommand.org/) 的中文版,
+本书是 [The Linux Command Line](http://linuxcommand.org/) 的中文版.
 
 * [在线阅读](book)
 * [下载pdf](https://github.com/billie66/TLCL/releases/download/v1/tlcl-cn.pdf)
